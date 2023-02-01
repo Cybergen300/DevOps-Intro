@@ -7,6 +7,6 @@ You'll find here all the cod scripts for the DevOPs introduction tutorial series
 
 See here for the different tutorial parts: 
 
-(https://mirror.xyz/0x1580F3E4811D723DcA8f2eF613AF9140D4f20898/FAKUoMn13O_wHLqlbCU5rH_VsQGCXhbLA1yXvhn300A "Tutorial Part 4")
+(Tutorial Part 4)[https://mirror.xyz/0x1580F3E4811D723DcA8f2eF613AF9140D4f20898/FAKUoMn13O_wHLqlbCU5rH_VsQGCXhbLA1yXvhn300A]
 
 Happy coding!
